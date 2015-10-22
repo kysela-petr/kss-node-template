@@ -1,0 +1,24 @@
+{
+  "name": "kss-template-kysela",
+  "version": "0.0.0",
+  "description": "Template for KSS (css doc generator)",
+  "main": "index.html",
+  "moduleType": "globals",
+  "keywords": [
+    "kss",
+    "css",
+    "template"
+  ],
+  "authors": [
+    "Kysela Petr <petr@kysela.biz>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kysela-petr/kss-node-template/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
